@@ -1,0 +1,17 @@
+{
+    "name": "swapi",
+    "version": "1.0.0",
+    "description": "Ejercicio prueba para Yamblet",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Esteban Uriel Gutierrez Martinez",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4",
+        "mongoose": "^5.4.16",
+        "request": "^2.88.0"
+    }
+}
